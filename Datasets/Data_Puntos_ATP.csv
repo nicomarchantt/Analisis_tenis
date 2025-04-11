@@ -1,0 +1,33 @@
+Series,Round,Points,key
+ATP250,Champion,250,ATP250_Champion
+ATP250,Runner-Up,165,ATP250_Runner-Up
+ATP250,Semifinals,100,ATP250_Semifinals
+ATP250,Quarterfinals,50,ATP250_Quarterfinals
+ATP250,4th Round,25,ATP250_4th Round
+ATP250,3rd Round,13,ATP250_3rd Round
+ATP250,2nd Round,0,ATP250_2nd Round
+ATP250,1st Round,0,ATP250_1st Round
+ATP500,Champion,500,ATP500_Champion
+ATP500,Runner-Up,330,ATP500_Runner-Up
+ATP500,Semifinals,200,ATP500_Semifinals
+ATP500,Quarterfinals,100,ATP500_Quarterfinals
+ATP500,4th Round,50,ATP500_4th Round
+ATP500,3rd Round,25,ATP500_3rd Round
+ATP500,2nd Round,0,ATP500_2nd Round
+ATP500,1st Round,0,ATP500_1st Round
+Masters 1000,Champion,1000,Masters 1000_Champion
+Masters 1000,Runner-Up,650,Masters 1000_Runner-Up
+Masters 1000,Semifinals,400,Masters 1000_Semifinals
+Masters 1000,Quarterfinals,200,Masters 1000_Quarterfinals
+Masters 1000,4th Round,100,Masters 1000_4th Round
+Masters 1000,3rd Round,50,Masters 1000_3rd Round
+Masters 1000,2nd Round,30,Masters 1000_2nd Round
+Masters 1000,1st Round,10,Masters 1000_1st Round
+Grand Slam,Champion,2000,Grand Slam_Champion
+Grand Slam,Runner-Up,1300,Grand Slam_Runner-Up
+Grand Slam,Semifinals,800,Grand Slam_Semifinals
+Grand Slam,Quarterfinals,400,Grand Slam_Quarterfinals
+Grand Slam,4th Round,200,Grand Slam_4th Round
+Grand Slam,3rd Round,100,Grand Slam_3rd Round
+Grand Slam,2nd Round,50,Grand Slam_2nd Round
+Grand Slam,1st Round,10,Grand Slam_1st Round
